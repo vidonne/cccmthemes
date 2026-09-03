@@ -2,7 +2,7 @@
 % Please edit documentation in R/theme_cccm.R
 \name{theme_cccm}
 \alias{theme_cccm}
-\title{CCCM \link{ggplot2} theme}
+\title{CCCM \link[ggplot2:ggplot2]{ggplot2} theme}
 \usage{
 theme_cccm(
   font_family = "Inter",

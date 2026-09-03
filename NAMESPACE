@@ -2,5 +2,7 @@
 
 export(theme_cccm)
 import(ggplot2)
-importFrom(ggrepel,GeomLabelRepel)
-importFrom(ggrepel,GeomTextRepel)
+importFrom(ggrepel,
+  GeomLabelRepel,
+  GeomTextRepel
+)
